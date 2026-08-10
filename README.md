@@ -1,1 +1,1 @@
-It Includes Concepts of ML, DL and GenAI etc
+It Includes Concepts of DataScience like ML, DL and GenAI etc
